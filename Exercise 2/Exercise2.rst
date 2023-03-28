@@ -1,5 +1,12 @@
-Look at the file titled titled "Match This Output.png" in this directory.
+Basics of Cooking
+#################
 
-Use this space to create some RST that matches the screenshot.
+Boiling Water
+*************
 
-First... delete all this text!
+#. Get a pot and fill it with water 
+#. Put it on the stove
+#. Turn on the stove until the water boils
+
+**CONGRATS!**
+
