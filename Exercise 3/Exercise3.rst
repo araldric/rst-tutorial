@@ -1,7 +1,21 @@
-Look at the file titled titled "Match This Output.png" in this directory.
+Basics of Cooking
+#################
 
-Use this space to create some RST that matches the screenshot.
+Making Pizza
+************
 
-In this exercise we use some links - you can use a link to any site!
+To make pizza you need to: 
+* Make dough
+* Make sauce 
 
-First... delete all this text!
+Making Dough
+************
+
+Here is a `great dough recipe <http://fake.url.com>`_ you can use! 
+
+Making Sauce 
+************
+
+Here is a `great sauce recipe <http://fake.url.com>`_ you can use!
+
+
